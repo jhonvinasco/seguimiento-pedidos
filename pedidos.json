@@ -1,0 +1,26 @@
+[
+  {
+    "idPedido": "PEDIDO123",
+    "numeroGuia": "GUIA456ABC",
+    "transportadora": "Transportes Rápidos",
+    "estado": "En Tránsito",
+    "fechaActualizacion": "2023-10-26",
+    "ubicacion": "Centro de Distribución Bogotá"
+  },
+  {
+    "idPedido": "PEDIDO124",
+    "numeroGuia": "GUIA457DEF",
+    "transportadora": "Entregas Seguras",
+    "estado": "Entregado",
+    "fechaActualizacion": "2023-10-25",
+    "ubicacion": "Dirección del Cliente Cali"
+  },
+   {
+    "idPedido": "PEDIDO125",
+    "numeroGuia": "GUIA458GHI",
+    "transportadora": "Transportes Rápidos",
+    "estado": "En Bodega",
+    "fechaActualizacion": "2023-10-26",
+    "ubicacion": "Bodega Principal Medellín"
+  }
+]
